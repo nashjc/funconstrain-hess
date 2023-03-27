@@ -1,5 +1,5 @@
 #' Bard Function
-#'
+#'  
 #' Test function 8 from the More', Garbow and Hillstrom paper.
 #'
 #' The objective function is the sum of \code{m} functions, each of \code{n}
